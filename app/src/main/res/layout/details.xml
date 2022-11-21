@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent">
+
+    <ScrollView
+        android:layout_width="match_parent"
+        android:layout_height="match_parent">
+        <TextView
+            android:layout_width="wrap_content"
+            android:layout_height="match_parent"
+            android:text="Tanggal Rilis: 1 Januari 2020.\n\n
+Sutradara: Nicolas Pesce.\n\n
+Diadaptasi dari: Ju-on: The Grudge\n\n
+Box office: 49,5 juta USD\n\n
+Didistribusikan oleh: Sony Pictures Motion Picture Group\n\n
+Penata artistik: Bruce Cook"
+            android:textStyle="bold"
+            android:layout_marginLeft="20dp"
+            android:layout_marginRight="20dp"
+            android:layout_marginTop="10dp"
+            android:textColor="@color/white"
+            android:textSize="17sp"
+            android:layout_centerInParent="true"/>
+
+    </ScrollView>
+</RelativeLayout>

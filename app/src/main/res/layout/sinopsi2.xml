@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent">
+
+    <ScrollView
+        android:layout_width="match_parent"
+        android:layout_height="match_parent">
+        <TextView
+            android:layout_width="wrap_content"
+            android:layout_height="match_parent"
+            android:text=".film horor supernatural mengisahkan sebuah keluarga ingin mencegah roh jahat menjebak anak mereka yang koma di alam yang disebut The More.
+Seorang guru Josh Lambert (Patrick Wilson) dan istrinya Renai (Rose Byrne) pindah bersama ketiga anak mereka, Dalton (Ty Simpkins), Foster (Andrew Astor) dan bayinya Cali, ke sebuah rumah besar. Ketika Dalton menjelajahi loteng, dia jatuh dari tangga dan kepalanya terbentur lantai. Keesokan paginya, Dalton tidak bangun dan tetap koma, tetapi dokter tidak dapat mendiagnosis masalahnya. Tiga bulan kemudian, hal-hal aneh terjadi di dalam rumah dan Renai melihat penampakan. Dia yakin rumah itu berhantu dan meyakinkan Josh untuk pindah ke rumah lain. Renai semakin sering melihat hantu di rumah baru itu, tetapi Josh tidak percaya pada istrinya. Namun ibunya, Lorraine Lambert (Barbara Hershey), justru mengatakan kepadanya bahwa dia juga mendapat penglihatan tentang iblis di kamar Dalton. Mereka lalu mengundang medium dan teman lama Lorraine, Elise Rainier (Lin Shaye), yang membawa tim Spek pemburu hantu dan Tucker (Angus Sampson) untuk menyelidiki fenomena supernatural tersebut. Elise menjelaskan bahwa Dalton adalah seorang musafir dengan kemampuan meninggalkan tubuh fisiknya dan melakukan perjalanan dalam proyeksi astral. Sekarang tubuh spiritualnya hilang di tempat yang dinamakan The More yang bukan untuk makhluk hidup, di sana para entitas berkumpul mencoba masuk ke dalam tubuh fisik Dalton yang kosong. Di antara entitas ini, ada iblis yang membutuhkan tubuh Dalton untuk menyebabkan rasa sakit bagi yang lain. Lebih lanjut, Lorraine mengungkapkan bahwa Josh juga seorang musafir berbakat dan harus mencari Dalton di alam The More serta membawanya kembali."
+            android:textStyle="bold"
+            android:layout_marginLeft="20dp"
+            android:layout_marginRight="20dp"
+            android:layout_marginTop="10dp"
+            android:textColor="@color/white"
+            android:textSize="17sp"
+            android:layout_centerInParent="true"/>
+
+    </ScrollView>
+</RelativeLayout>

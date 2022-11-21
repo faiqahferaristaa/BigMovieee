@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent">
+
+    <ScrollView
+        android:layout_width="match_parent"
+        android:layout_height="match_parent">
+        <TextView
+            android:layout_width="wrap_content"
+            android:layout_height="match_parent"
+            android:text="Tanggal rilis: 5 September 2018 \n\n
+Sutradara: Corin Hardy\n\n
+Box office: 365,6 juta USD\n\n
+Anggaran: 22 juta USD\n\n
+Cerita oleh: James Wan, Gary Dauberman\n\n
+Produser: James Wan, Peter Safran\n\n"
+            android:textStyle="bold"
+            android:layout_marginLeft="20dp"
+            android:layout_marginRight="20dp"
+            android:layout_marginTop="10dp"
+            android:textColor="@color/white"
+            android:textSize="17sp"
+            android:layout_centerInParent="true"/>
+
+    </ScrollView>
+</RelativeLayout>

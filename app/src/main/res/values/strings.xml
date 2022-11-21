@@ -1,0 +1,13 @@
+<resources>
+    <string name="app_name">BigMovieee</string>
+    <array name="datapoto">
+        <item>@drawable/thegrudge</item>
+        <item>@drawable/thenun</item>
+        <item>@drawable/insidious</item>
+    </array>
+    <string-array name="data_name">
+        <item>The Grudge</item>
+        <item>The Nun</item>
+        <item>Insidious</item>
+    </string-array>
+</resources>

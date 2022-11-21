@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent">
+
+    <ScrollView
+        android:layout_width="match_parent"
+        android:layout_height="match_parent">
+        <TextView
+            android:layout_width="wrap_content"
+            android:layout_height="match_parent"
+            android:text=".The Grudge menjadi salah satu film horor yang ditunggu-tunggu saat pembukaan tahun baru 2020.The Grudge versi baru mengisahkan seorang ibu muda yang membunuh anggota keluarga lain di rumahnya sendiri. Dari kejadian itu, seorang detektif mencoba untuk menyelidiki kasus misterius tersebut. Sayangnya, bukan misteri yang terungkap, detektif justru menemukan kutukan hantu di rumah si ibu. Sekarang si detektif masuk dalam lingkaran bahaya. Dia dan keluarganya harus keluar dari kutukan hantu itu.Salah satu potongan adegan terkenal dari waralaba Grudge adalah tangan yang muncul dari belakang kepala seorang tokoh saat sedang mandi. Adegan ini pula yang diambil sebagai poster The Grudge yang terpampang di bioskop-bioskop Indonesia."
+            android:textStyle="bold"
+            android:layout_marginLeft="20dp"
+            android:layout_marginRight="20dp"
+            android:layout_marginTop="10dp"
+            android:textColor="@color/white"
+            android:textSize="17sp"
+            android:layout_centerInParent="true"/>
+
+    </ScrollView>
+</RelativeLayout>
